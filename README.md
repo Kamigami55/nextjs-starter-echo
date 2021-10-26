@@ -1,6 +1,8 @@
-# Next.js Starter
+# Next.js Starter Echo
 
 Awesome Next.js starter template made by Eason Chang
+
+[Demo site](https://nextjs-starter-echo.vercel.app/)
 
 ## features
 
