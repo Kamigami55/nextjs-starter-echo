@@ -25,7 +25,8 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:tailwindcss/recommended',
-    'plugin:prettier/recommended', // Make this the last element so prettier config overrides other formatting rules
+    'plugin:prettier/recommended',
+    'plugin:storybook/recommended',
   ],
   plugins: ['simple-import-sort', 'tailwindcss'],
   rules: {
