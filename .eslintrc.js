@@ -14,6 +14,12 @@ module.exports = {
     react: {
       version: 'detect', // Automatically detect the react version
     },
+    'import/resolver': {
+      alias: {
+        map: [['@', './src']],
+        extensions: ['.js', '.jsx'],
+      },
+    },
   },
   env: {
     browser: true, // Enables browser globals like window and document
@@ -21,6 +27,7 @@ module.exports = {
     node: true, // Enables Node.js global variables and Node.js scoping.
   },
   extends: [
+    'eason',
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
