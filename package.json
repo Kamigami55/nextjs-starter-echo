@@ -54,7 +54,7 @@
     "postcss": "^8.3.9",
     "prettier": "^2.4.1",
     "sass": "^1.51.0",
-    "sass-loader": "10",
+    "sass-loader": "12",
     "storybook-dark-mode": "^1.1.1-canary.105.3828.0",
     "tailwindcss": "^2.2.16"
   }
