@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+  stories: ['../src/**/*.stories.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)'],
   features: {
     storyStoreV7: true
   },
@@ -12,12 +13,6 @@ module.exports = {
         fsCache: true
       }
     }
-  }
-};
-module.exports = {
-  stories: ['../src/**/*.stories.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)'],
-  features: {
-    storyStoreV7: true
   },
   addons: ['@storybook/addon-links', '@storybook/addon-essentials', 'storybook-dark-mode', {
     name: '@storybook/addon-postcss',
