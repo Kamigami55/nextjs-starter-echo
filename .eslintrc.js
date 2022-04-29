@@ -8,12 +8,8 @@ module.exports = {
       },
     },
   },
-  extends: [
-    'eason',
-    'plugin:tailwindcss/recommended',
-    'plugin:storybook/recommended',
-  ],
-  plugins: ['tailwindcss'],
+  extends: ['eason', 'plugin:storybook/recommended'],
+  plugins: [],
   rules: {
     'jsx-a11y/anchor-is-valid': [
       'error',
