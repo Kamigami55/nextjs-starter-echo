@@ -5,6 +5,7 @@ module.exports = {
   features: {
     storyStoreV7: true
   },
+  staticDirs: ['../public'],
   core: {
     builder: {
       name: 'webpack5',
