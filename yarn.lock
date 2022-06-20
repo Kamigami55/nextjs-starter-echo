@@ -11402,10 +11402,10 @@ store2@^2.12.0:
   resolved "https://registry.yarnpkg.com/store2/-/store2-2.12.0.tgz#e1f1b7e1a59b6083b2596a8d067f6ee88fd4d3cf"
   integrity sha512-7t+/wpKLanLzSnQPX8WAcuLCCeuSHoWdQuh9SB3xD0kNOM38DNf+0Oa+wmvxmYueRzkmh6IcdKFtvTa+ecgPDw==
 
-storybook-dark-mode@^1.1.1-canary.105.3828.0:
-  version "1.1.1-canary.105.3828.0"
-  resolved "https://registry.yarnpkg.com/storybook-dark-mode/-/storybook-dark-mode-1.1.1-canary.105.3828.0.tgz#f78cf883fadbf89f5b7303723c0e836ce62b2802"
-  integrity sha512-L/Tb/hJoojxLgrzSZu4Ju8v2g64u/1DB++EN77/rNxj/PMzCRT/m8kwJJycm20f6vEMWNsI5J6cA4fbgpYVxVg==
+storybook-dark-mode@^1.1.1-canary.120.3965.0:
+  version "1.1.1-canary.120.3965.0"
+  resolved "https://registry.yarnpkg.com/storybook-dark-mode/-/storybook-dark-mode-1.1.1-canary.120.3965.0.tgz#4da5ff07877bd9211c0ca509e3a8ffbca8f57776"
+  integrity sha512-q+1DKTVKQvSwJRECel38VzLyZbCJvN25ZjnPv76833ZAd3hJ6ggHGyDUpPzTrcZugqly1Qg+n8MizCTe0cJP+Q==
   dependencies:
     fast-deep-equal "^3.0.0"
     memoizerific "^1.11.3"
